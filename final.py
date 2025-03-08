@@ -11,7 +11,7 @@ cursor_position_stack = []
 memory_stack = []
 command_stack = []
 ##using to adjust globle visible 
-cursor_visible = True
+cursor_visible = False
 
 def check_input(command):
     '''
